@@ -2,6 +2,9 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## TODO
+以后有需要的话，要考虑如何用本地手机直接调试expo的安卓项目，未来加入这个应用场景；
+
 ## Get started
 
 1. Install dependencies
